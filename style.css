@@ -1,0 +1,49 @@
+/* body{
+    margin : 100px;
+    padding: 10px;
+    border: 5px solid rgb(0, 115, 255);
+    
+}
+
+.container{
+    background-color: aqua;
+    font-size: x-large;
+    font-weight: 100;
+    font-style: italic;
+    color: blue;
+
+} */
+
+.divcolor{
+    background-color: darkolivegreen;
+}
+.headercolor{
+    background-color: lightskyblue;
+}
+.sectioncolor{
+    background-color: aqua;
+}
+.spancolor{
+    color: blueviolet;
+}
+.articlecolor{
+    background-color: red;
+}
+.pcolor{
+    color: black;
+}
+.header1color{
+    background-color: lightskyblue;
+}
+.section1color{
+    background-color: red;
+}
+.span1color{
+    color: black;
+}
+.article1color{
+    background-color: aqua;
+}
+.p1color{
+    color: blueviolet;
+}
